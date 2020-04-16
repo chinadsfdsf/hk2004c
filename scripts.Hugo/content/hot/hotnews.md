@@ -19,7 +19,7 @@ categories:
     text="唐柏桥:美中关系如何发展 中国粮荒何时到来 未来变局如何应对"
     >}}
 
-{{< mydiv4o link="hk2004b.chinadsf.org/blog/2020/04/14/20200411_3hbnh29t5sk/"
+{{< mydiv4o link="https://hk2004b.chinadsf.org/blog/2020/04/14/20200411_3hbnh29t5sk/"
     text="唐柏桥:疫情拐点到了吗？ 疫情之后会发生什么 中共真的对付不了吗 白宫点名批评美国之音说明了什么 纯音频"
     >}}
 
