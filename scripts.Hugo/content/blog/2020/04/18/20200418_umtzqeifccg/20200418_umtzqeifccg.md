@@ -12,6 +12,7 @@ tags:
  - 2020_04
  - 2020_0418
  - 2020_0418_18
+ - fuckccp
 categories:
  - 2020_0418
 #icon:        "fas fa-lock-open"
