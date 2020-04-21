@@ -15,13 +15,11 @@ categories:
     text="致命中國Death by China（中文字幕）"
     >}}
 
-{{< mydiv4o link="https://hk2004.chinadsf.org/blog/2020/04/03/20200403_zxjzecteir0/"
-    text="唐柏桥:美中关系如何发展 中国粮荒何时到来 未来变局如何应对"
-    >}}
 
-{{< mydiv4o link="https://hk2004b.chinadsf.org/blog/2020/04/14/20200411_3hbnh29t5sk/"
-    text="唐柏桥:疫情拐点到了吗？ 疫情之后会发生什么 中共真的对付不了吗 白宫点名批评美国之音说明了什么 纯音频"
-    >}}
-
+{{< mydiv4o link="https://hk2004.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 20040" >}}
+{{< mydiv4o link="https://hk2004a.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 2004a" >}}
+{{< mydiv4o link="https://hk2004b.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 2004b" >}}
+{{< mydiv4o link="https://hk2004c.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 2004c" >}}
+{{< mydiv4o link="https://hk2004d.chinadsf.org/hot/hotnews/" text=" hot news 以前的新闻 2004d" >}}
 
 {{< my2genlistbytag "hotnews" >}}
